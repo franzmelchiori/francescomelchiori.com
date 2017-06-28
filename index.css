@@ -1,0 +1,151 @@
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  color: #1a1a1a;
+  margin: 1% 2%;
+  padding: 2% 3%;
+  background-color: #f0f0f0;
+}
+h2 {
+  color: #800040;
+}
+a:link {
+  color: #000080;
+  text-decoration: none;
+  border-bottom: 1px solid #000080;
+}
+.section_links a:link {
+  margin: 3px 3px;
+  border: 1px solid #000080;
+  padding: 1px 1px;
+}
+a:visited {
+  color: #000080;
+  text-decoration: none;
+  border-bottom: 1px solid #000080;
+}
+.section_links a:visited {
+  border: 1px solid #000080;
+}
+a:hover {
+  color: #800000;
+  text-decoration: none;
+  border-bottom: 1px solid #800000;
+}
+.section_links a:hover {
+  margin: 2px 2px;
+  border: 1px solid #800000;
+  padding: 2px 2px;
+}
+a:focus {
+  color: #800000;
+  text-decoration: none;
+  border-bottom: 1px solid #800000;
+}
+.section_links a:focus {
+  border: 1px solid #800000;
+}
+a:active {
+  color: #ff0000;
+  text-decoration: none;
+  border-bottom: 1px solid #ff0000;
+}
+.section_links a:active {
+  margin: 1px 1px;
+  border: 1px solid #ff0000;
+  padding: 3px 3px;
+}
+.image_link a {
+  text-decoration: none;
+  border-bottom: none;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+#allcontent_box {
+}
+.title {
+  font-family: "Times New Roman", serif;
+  font-size: 175%;
+  color: #660033;
+}
+.main_title {
+  font-size: 225%;
+  color: #4d0026;
+  border-bottom: 2px dotted #a9a9a9;
+}
+.image_centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#tableContainer {
+  display: table;
+  width: 94%;
+  margin: 0.5% 1%;
+  padding: 1% 2%;
+}
+#tableRow {
+  display: table-row;
+}
+#main_box {
+  display: table-cell;
+  vertical-align: top;
+  width: 70%;
+  margin: 0.5% 1%;
+  padding: 1% 2%;
+}
+#whaticando_box {
+}
+.box {
+}
+#sidebar_box {
+  display: table-cell;
+  vertical-align: top;
+  width: 30%;
+  margin: 0.5% 1%;
+  background: #ffe6e6;
+  padding: 1% 2%;
+}
+#contact_box {
+}
+.contact_element, .skill_element {
+  font-style: italic;
+  color: #800040;
+}
+#skype_button_link {
+  margin: 2% 4%;
+}
+#twitter_button_link {
+  margin: 2% 4%;
+}
+.qualification, .skills_area {
+  font-family: "Times New Roman", serif;
+  font-size: 112.5%;
+  font-weight: bold;
+  color: #660033;
+  border-bottom: 1px solid #dcdcdc;
+}
+.skills_area {
+  font-size: 125%;
+  border-bottom: none;
+}
+.section_links {
+  font-size: 87.5%;
+  line-height: 125%;
+  margin: 0.5% 1% 0.55% 1%;
+  padding: 1% 2%;
+  background-color: #e6e6e6;
+  clear: right;
+}
+.main_section_links {
+  font-size: 112.5%;
+}
+.footer {
+  text-align: center;
+  color: #808080;
+  clear: right;
+}
+#skypedetectionswf {
+  display: none;
+}
