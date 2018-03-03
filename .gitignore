@@ -1,2 +1,6 @@
-﻿/*.sln
-/.vs/*
+﻿# pycharm
+.idea/
+
+# visual studio
+.vs/
+*.sln
