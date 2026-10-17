@@ -4,3 +4,6 @@
 # visual studio
 .vs/
 *.sln
+
+# ai
+ai_mod_20261017/
